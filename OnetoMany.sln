@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnetoMany", "OnetoMany.csproj", "{47D5D803-357E-457F-9BF6-4C3B49257693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D5D803-357E-457F-9BF6-4C3B49257693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D5D803-357E-457F-9BF6-4C3B49257693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D5D803-357E-457F-9BF6-4C3B49257693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D5D803-357E-457F-9BF6-4C3B49257693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB3F20B-D043-48C0-A0DC-1A1740536335}
+	EndGlobalSection
+EndGlobal
